@@ -54,13 +54,6 @@
 
 
 
-## GitHub Thropies 🏆 :
-
-<br>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=emrecobann)](https://github.com/emrecobann/github-profile-trophy)
-
-<br>
 
 ## Activity Graph 📊 :
 
