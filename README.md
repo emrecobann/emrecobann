@@ -5,7 +5,6 @@
 
 ## About Me :
 
-- 🏢 I am currently working as a **Artificial Intelligence Engineer Intern** at [SisaSoft](https://www.sisasoft.com.tr)
 - 🎓 Studies for A.I Engineering at Hacettepe University
 - 🏡'Lives in **Ankara/Turkey**
 
