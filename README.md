@@ -73,8 +73,8 @@
 
 <br>
 
-[![Emre's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=b2200765028)](https://github.com/b2200765028/github-readme-activity-graph)
 
+[![Emre's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=b2200765028&theme=react-dark)](https://github.com/b2200765028/github-readme-activity-graph)
 ---
 
 Credit: [emrecoban](https://github.com/b2200765028)
