@@ -50,14 +50,14 @@
 -**Html** 
 
 -**CSS**
-
+<br>
 ## Experience :
 
 -**SisaSoft AI Engineer Intern (June 2022 - August 2022)**
 
 -**TUSAŞ(Turkish Aerospace Industries) AI Engineer Intern( November 2022 - Continues)**
 
-
+<br>
 ## Projects 🧑‍💻 :You can find in my github repositories)
 
 -**AIN311 Question Generation with Custom Data**
@@ -68,7 +68,7 @@
 
 
 
-
+<br>
 ## Activity Graph 📊 :
 
 <br>
