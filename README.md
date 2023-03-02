@@ -73,7 +73,7 @@
 
 <br>
 
-[![Emre's github activity graph](https://activity-graph.herokuapp.com/graph?username=b2200765028&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true)](https://github.com/b2200765028/github-readme-activity-graph)
+[![Emre's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=b2200765028)](https://github.com/b2200765028/github-readme-activity-graph)
 
 ---
 
