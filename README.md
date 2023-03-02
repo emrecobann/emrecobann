@@ -5,7 +5,7 @@
 
 ## About Me :
 
-- 🎓 Studies for A.I Engineering at Hacettepe University
+- 🎓 Studies for A.I Engineering at Hacettepe University 3rd Grade  3.46/4.00 GPA
 - 🏡'Lives in **Ankara/Turkey**
 
 <br>
@@ -52,6 +52,11 @@
 -**CSS**
 
 
+## Projects 🧑‍💻 :
+
+-**AIN311 Question Generation with Custom Data**
+-** Urban Sound Classification**
+-** Data Mining Bank Dataset Analysis-Modelling**
 
 
 ## Activity Graph 📊 :
