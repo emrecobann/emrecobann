@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Emre Çoban</h1>
 
-![GitHub followers](https://img.shields.io/github/followers/emrecobann?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/emrecobann?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=emrecobann.repoName) <img src="https://komarev.com/ghpvc/?username=emrecobann" alt="emrecobann" />
+![GitHub followers](https://img.shields.io/github/followers/b2200765028?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/b2200765028?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=b2200765028.repoName) <img src="https://komarev.com/ghpvc/?username=b2200765028" alt="b2200765028" />
 
 ## About Me :
 
