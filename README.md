@@ -55,8 +55,10 @@
 ## Projects 🧑‍💻 :
 
 -**AIN311 Question Generation with Custom Data**
--** Urban Sound Classification**
--** Data Mining Bank Dataset Analysis-Modelling**
+
+-**Urban Sound Classification**
+
+-**Data Mining Bank Dataset Analysis-Modelling**
 
 
 ## Activity Graph 📊 :
