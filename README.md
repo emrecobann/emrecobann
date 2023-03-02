@@ -17,7 +17,7 @@
 
 [![@emrecoban]( https://img.icons8.com/fluency/48/000000/linkedin.png "@emrecoban")](https://www.linkedin.com/in/emre-çoban-73b3851ba) 
 
-[![@emrecoban2]( https://miro.medium.com/max/2400/1*sHhtYhaCe2Uc3IU0IgKwIQ.png =120x120 "@emrecoban2")](https://medium.com/@emre02onur09) 
+[![@emrecoban2]( https://miro.medium.com/max/2400/1*sHhtYhaCe2Uc3IU0IgKwIQ.png | width=120 "@emrecoban2")](https://medium.com/@emre02onur09) 
 
 <br>
 
