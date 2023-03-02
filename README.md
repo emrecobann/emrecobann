@@ -51,6 +51,12 @@
 
 -**CSS**
 
+## Experience :
+
+-**SisaSoft AI Engineer Intern (June 2022 - August 2022)
+
+-**TUSAŞ(Turkish Aerospace Industries) AI Engineer Intern( November 2022 - Continues)
+
 
 ## Projects 🧑‍💻 :
 
@@ -61,11 +67,13 @@
 -**Data Mining Bank Dataset Analysis-Modelling**
 
 
+
+
 ## Activity Graph 📊 :
 
 <br>
 
-[![Emre's github activity graph](https://activity-graph.herokuapp.com/graph?username=b2200765028&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true)](https://github.com/emreb2200765028cobann/github-readme-activity-graph)
+[![Emre's github activity graph](https://activity-graph.herokuapp.com/graph?username=b2200765028&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true)](https://github.com/b2200765028/github-readme-activity-graph)
 
 ---
 
