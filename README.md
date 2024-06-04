@@ -27,11 +27,15 @@
 
 -**Python**
 
--**Machine Learning**
+-**C++**
 
--**Deep Learning**
+-**Java**
+
+-**Machine Learning & Frameworks**
 
 -**Pytorch**
+
+-**TensorFlow**
 
 -**Time Series Analysis**
 
@@ -39,9 +43,8 @@
 
 -**Natural Language Processing**
 
--**C++**
+-**Data Science**
 
--**Java**
 
 
 
@@ -75,7 +78,9 @@
 
 -**Surfing the Bitcoin Waves**
 
--**Comparative Study of Single Image Blind Motion Deblurring**
+-**Comparative Study of Blind Motion Deblurring in Single Image**
+
+-**Brain Tumor Segmentation with U-Net**
 
 
 
