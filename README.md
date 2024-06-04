@@ -1,11 +1,11 @@
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Emre Çoban</h1>
 
-![GitHub followers](https://img.shields.io/github/followers/b2200765028?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/b2200765028?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=b2200765028.repoName) <img src="https://komarev.com/ghpvc/?username=b2200765028" alt="b2200765028" />
+![GitHub followers](https://img.shields.io/github/followers/emrecobann?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/emrecobann?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=emrecobann.repoName) <img src="https://komarev.com/ghpvc/?username=emrecobann" alt="emrecobann" />
 
 ## About Me :
 
-- 🎓 Studies for A.I Engineering at Hacettepe University 3rd Grade  3.46/4.00 GPA
+- 🎓 Studies for A.I Engineering at Hacettepe University Senior Year Student  3.55/4.00 GPA
 - 🏡'Lives in **Ankara/Turkey**
 
 <br>
@@ -26,40 +26,40 @@
 
 
 -**Python**
-<br>
-
-
--**C++**
-<br>
-
-
--**Java**
-<br>
-
 
 -**Machine Learning**
-<br>
 
-
--**Deep Learning(Interested in Computer Vision)**
-
-
+-**Deep Learning**
 
 -**Pytorch**
-<br>
+
+-**Time Series Analysis**
+
+-**Computer Vision**
+
+-**Natural Language Processing**
+
+-**C++**
+
+-**Java**
 
 
--**Html** 
-
--**CSS**
 
 <br>
 
 ## Experience :
 
--**SisaSoft AI Engineer Intern (June 2022 - August 2022)**
+-**Candidate AI Engineer at HAVELSAN (March 2024 - Present)**
 
--**TUSAŞ(Turkish Aerospace Industries) AI Engineer Intern( November 2022 - Continues)**
+-**AI Engineer & Founding Engineer at DataScope AI (September 2023 - February 2024)**
+
+-**AI Engineering Intern at HAVELSAN (July 2023 - August 2023)**
+
+-**AI Engineer Intern at Turkish Aerospace Industries (November 2022 - May 2023)**
+
+-**AI Engineer Intern at SisaSoft  (June 2022 - August 2022)**
+
+
 
 <br>
 
@@ -71,6 +71,13 @@
 
 -**Data Mining Bank Dataset Analysis-Modelling**
 
+-**Question Generation**
+
+-**Surfing the Bitcoin Waves**
+
+-**Comparative Study of Single Image Blind Motion Deblurring**
+
+
 
 
 <br>
@@ -80,7 +87,7 @@
 <br>
 
 
-[![Emre's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=b2200765028&theme=react-dark)](https://github.com/b2200765028/github-readme-activity-graph)
+[![Emre's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=emrecobann&theme=react-dark)](https://github.com/emrecobann/github-readme-activity-graph)
 ---
 
-Credit: [emrecoban](https://github.com/b2200765028)
+Credit: [emrecoban](https://github.com/emrecobann)
