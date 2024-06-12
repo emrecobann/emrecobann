@@ -49,10 +49,9 @@
 
 ## Projects 🧑‍💻 :
 
-- **AIN311 Question Generation with Custom Data**
+- **Question Generation**
 - **Urban Sound Classification**
 - **Data Mining Bank Dataset Analysis-Modelling**
-- **Question Generation**
 - **Surfing the Bitcoin Waves**
 - **Comparative Study of Blind Motion Deblurring in Single Image**
 - **Brain Tumor Segmentation with U-Net**
