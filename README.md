@@ -7,7 +7,7 @@
 
 - 🎓 Studies for A.I Engineering at Hacettepe University Senior Year Student  3.59/4.00 GPA
 - 🏡'Lives in **Ankara/Turkey**
-- For more information visit my web portfolio by clicking [here](emrecobann.github.io)
+- For more information visit my web portfolio by clicking [here](https://emrecobann.github.io/)
 
 <br>
 
