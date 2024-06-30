@@ -13,9 +13,10 @@
 
 ## About Me :
 
-- 🎓 Studies for A.I Engineering at Hacettepe University, Senior Year Student with a 3.59/4.00 GPA
+- 🎓 AI Engineer, graduated from Hacettepe University with a GPA of 3.59/4.00
 - 🏡 Lives in **Ankara, Turkey**
-- 🌐 For more information, visit my [web portfolio](https://emrecobann.github.io/)
+- Currently employed at HAVELSAN
+- 🌐 Explore more about me on my [web portfolio](https://emrecobann.github.io/)
 
 ---
 
