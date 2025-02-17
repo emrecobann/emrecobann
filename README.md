@@ -40,7 +40,8 @@
 
 ## Experience :
 
-- **Candidate AI Engineer at HAVELSAN** (March 2024 - Present)
+- **AI Engineer at HAVELSAN** (July 2024 - Cont.)
+- **Candidate AI Engineer at HAVELSAN** (March 2024 - July 2024)
 - **AI Engineer & Founding Engineer at DataScope AI** (September 2023 - February 2024)
 - **AI Engineering Intern at HAVELSAN** (July 2023 - August 2023)
 - **AI Engineer Intern at Turkish Aerospace Industries** (November 2022 - May 2023)
