@@ -16,7 +16,6 @@
 - 🎓 AI Engineer, graduated from Hacettepe University with a GPA of 3.59/4.00
 - 🏡 Lives in **Ankara, Turkey**
 - 💼 Currently employed at HAVELSAN
-- 🌐 Explore more about me on my [web portfolio](https://emrecobann.github.io/)
 
 ---
 
