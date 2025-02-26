@@ -11,13 +11,13 @@
   <img src="https://komarev.com/ghpvc/?username=emrecobann" alt="Profile views">
 </p>
 
-## About Me :
+## About Me:
 
-- 🎓 AI Engineer, graduated from Hacettepe University with a GPA of 3.59/4.00
-- 🏡 Lives in **Ankara, Turkey**
-- 💼 Currently employed at HAVELSAN
+- 🎓 **M.Sc. Computer Engineering student** at Hacettepe University, focusing on **Multimodal Large Language Models**
+- 🎓 **B.Sc. in AI Engineering** from the Computer Engineering Department at Hacettepe University
+- 🏡 Based in **Ankara, Turkey**
+- 💼 Currently working as an **AI Engineer at HAVELSAN**
 
----
 
 ## Connect with me ☕ :
 
