@@ -31,8 +31,9 @@
 
 ## Skills And Tools 🧑‍💻 :
 
-- **Programming Languages:** Python, C++, Java
-- **Machine Learning & Frameworks:** Pytorch, TensorFlow
+- **Programming Languages:** Python, C++, SQL
+- **Machine Learning & Frameworks:** PyTorch, TensorFlow, scikit-learn, LangChain, HuggingFace (Transformers), Optuna, gymnasium, stablebaselines, LightGBM, CatBoost, XGBoost, Darts, Pandas, NumPy, matplotlib, seaborn, plotly
+- **Tools:** Git, GitHub, Bitbucket, PostgreSQL, Windows
 - **Specializations:** Time Series Analysis, Computer Vision, Natural Language Processing, Data Science
 
 ---
