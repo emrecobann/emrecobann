@@ -54,19 +54,6 @@ I'm an AI Engineer at **HAVELSAN** and an M.Sc. student at Hacettepe University,
 
 ---
 
-## Selected Projects
-
-| Project | Description |
-|---|---|
-| **Brain Tumor Segmentation** | Semantic segmentation of MRI scans using U-Net |
-| **Blind Motion Deblurring** | Comparative study of single-image deblurring methods |
-| **Urban Sound Classification** | Environmental audio classification with deep learning |
-| **Bitcoin Time Series Analysis** | Forecasting and pattern analysis on cryptocurrency data |
-| **Question Generation** | Automated question generation from text using NLP |
-| **Bank Dataset Analysis** | Data mining, feature engineering, and predictive modelling |
-
----
-
 ## GitHub Activity
 
 <div align="center">
