@@ -1,73 +1,85 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Emre Çoban</h1>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/emrecobann">
-    <img src="https://img.shields.io/github/followers/emrecobann?style=social" alt="GitHub followers">
-  </a>
-  <a href="https://github.com/emrecobann">
-    <img src="https://img.shields.io/github/stars/emrecobann?style=social" alt="GitHub stars">
-  </a>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=emrecobann.repoName" alt="Visitor">
-  <img src="https://komarev.com/ghpvc/?username=emrecobann" alt="Profile views">
-</p>
+# Emre Çoban
 
-## About Me:
+**AI Engineer · M.Sc. Computer Engineering · Hacettepe University**
 
-- 🎓 **M.Sc. Computer Engineering student** at Hacettepe University, focusing on **Multimodal Large Language Models**
-- 🎓 **B.Sc. in AI Engineering** from the Computer Engineering Department at Hacettepe University
-- 🏡 Based in **Ankara, Turkey**
-- 💼 Currently working as an **AI Engineer at HAVELSAN**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emre-çoban-73b3851ba)
+[![GitHub followers](https://img.shields.io/github/followers/emrecobann?style=flat&label=Followers&color=0A66C2)](https://github.com/emrecobann)
+[![Profile views](https://komarev.com/ghpvc/?username=emrecobann&style=flat&color=0A66C2)](https://github.com/emrecobann)
 
-
-## Connect with me ☕ :
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/emre-çoban-73b3851ba">
-    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn">
-  </a>
-</p>
+</div>
 
 ---
 
-## Skills And Tools 🧑‍💻 :
+## About
 
-- **Programming Languages:** Python, C++, SQL
-- **Machine Learning & Frameworks:** PyTorch, TensorFlow, scikit-learn, LangChain, HuggingFace (Transformers), Optuna, gymnasium, stablebaselines, LightGBM, CatBoost, XGBoost, Darts, Pandas, NumPy, matplotlib, seaborn, plotly
-- **Tools:** Git, GitHub, Bitbucket, PostgreSQL, Windows
-- **Specializations:** Time Series Analysis, Computer Vision, Natural Language Processing, Data Science
+I'm an AI Engineer at **HAVELSAN** and an M.Sc. student at Hacettepe University, where my research centers on **Multimodal Large Language Models**. My background spans computer vision, natural language processing, time series analysis, and applied deep learning — built across academic research, product engineering, and several years of industry experience.
 
----
-
-## Experience :
-
-- **AI Engineer at HAVELSAN** (July 2024 - Cont.)
-- **Candidate AI Engineer at HAVELSAN** (March 2024 - July 2024)
-- **AI Engineer & Founding Engineer at DataScope AI** (September 2023 - February 2024)
-- **AI Engineering Intern at HAVELSAN** (July 2023 - August 2023)
-- **AI Engineer Intern at Turkish Aerospace Industries** (November 2022 - May 2023)
-- **AI Engineer Intern at SisaSoft** (June 2022 - August 2022)
+- 🎓 **M.Sc. Computer Engineering** — Hacettepe University *(ongoing, focus: Multimodal LLMs)*
+- 🎓 **B.Sc. AI Engineering** — Hacettepe University
+- 📍 Ankara, Turkey
 
 ---
 
-## Projects 🧑‍💻 :
+## Experience
 
-- **Question Generation**
-- **Urban Sound Classification**
-- **Data Mining Bank Dataset Analysis-Modelling**
-- **Surfing the Bitcoin Waves**
-- **Comparative Study of Blind Motion Deblurring in Single Image**
-- **Brain Tumor Segmentation with U-Net**
-
----
-
-## Activity Graph 📊 :
-
-<p align="center">
-  <a href="https://github-readme-activity-graph.vercel.app/graph?username=emrecobann&theme=react-dark">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=emrecobann&theme=react-dark" alt="Emre's GitHub Activity Graph">
-  </a>
-</p>
+| Role | Organization | Period |
+|---|---|---|
+| AI Engineer | HAVELSAN | Jul 2024 – Present |
+| Candidate AI Engineer | HAVELSAN | Mar 2024 – Jul 2024 |
+| AI Engineer & Founding Engineer | DataScope AI | Sep 2023 – Feb 2024 |
+| AI Engineering Intern | HAVELSAN | Jul 2023 – Aug 2023 |
+| AI Engineer Intern | Turkish Aerospace Industries (TAI) | Nov 2022 – May 2023 |
+| AI Engineer Intern | SisaSoft | Jun 2022 – Aug 2022 |
 
 ---
 
-Credit: [emrecoban](https://github.com/emrecobann)
+## Skills
+
+**Languages**
+`Python` `C++` `SQL`
+
+**ML / Deep Learning**
+`PyTorch` `TensorFlow` `HuggingFace Transformers` `scikit-learn` `LightGBM` `CatBoost` `XGBoost` `Optuna` `LangChain` `gymnasium` `stable-baselines3` `Darts`
+
+**Data & Visualization**
+`Pandas` `NumPy` `matplotlib` `seaborn` `plotly`
+
+**Tools & Infrastructure**
+`Git` `GitHub` `Bitbucket` `PostgreSQL`
+
+**Domains**
+`Natural Language Processing` `Computer Vision` `Time Series Analysis` `Reinforcement Learning` `Data Science`
+
+---
+
+## Selected Projects
+
+| Project | Description |
+|---|---|
+| **Brain Tumor Segmentation** | Semantic segmentation of MRI scans using U-Net |
+| **Blind Motion Deblurring** | Comparative study of single-image deblurring methods |
+| **Urban Sound Classification** | Environmental audio classification with deep learning |
+| **Bitcoin Time Series Analysis** | Forecasting and pattern analysis on cryptocurrency data |
+| **Question Generation** | Automated question generation from text using NLP |
+| **Bank Dataset Analysis** | Data mining, feature engineering, and predictive modelling |
+
+---
+
+## GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=emrecobann&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" width="100%">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=emrecobann&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emrecobann&layout=compact&theme=react&hide_border=true" height="150" alt="Top Languages">
+</div>
+
+---
+
+<div align="center">
+  <sub>Open to research collaborations and applied AI projects · <a href="https://www.linkedin.com/in/emre-çoban-73b3851ba">Get in touch</a></sub>
+</div>
