@@ -60,10 +60,6 @@ I'm an AI Engineer at **HAVELSAN** and an M.Sc. student at Hacettepe University,
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=emrecobann&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" width="100%">
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emrecobann&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emrecobann&layout=compact&theme=react&hide_border=true" height="150" alt="Top Languages">
-</div>
 
 ---
 
