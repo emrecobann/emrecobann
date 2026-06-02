@@ -57,9 +57,8 @@ I'm an AI Engineer at **HAVELSAN** and an M.Sc. student at Hacettepe University,
 ## GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=emrecobann&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" width="100%">
+  <img src="https://ghchart.rshah.org/emrecobann" alt="Emre's GitHub Contribution Graph" width="100%">
 </div>
-
 
 ---
 
